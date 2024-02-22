@@ -1,0 +1,100 @@
+{
+ "source_language": "turkish",
+ "target_language": "english",
+ "meta": "• The Turkish letters \"ş\", \"ç\" and \"ı\" are pronounced like English \"sh\", \"ch\" and the \"a\" in \"above\". • The letters i and ı represent different vowels. • The letters u and ü represent different vowels, rather like the difference between the vowel sound in \"foot\" as opposed to \"food\" or \"boot\". • The letter \"ğ\" is usually silent (like the \"gh\" in \"although\").",
+ "train": [
+  [
+   "Arkadaşlarım şehirde mutlu",
+   "My friends [are] happy in the city."
+  ],
+  [
+   "Baban İstanbul'u seviyor mu?",
+   "Does your father like Istanbul?"
+  ],
+  [
+   "Fakirler Van'dan İstanbul'a gelmek istiyor",
+   "Poor people want to come from [the city of] Van to Istanbul."
+  ],
+  [
+   "İstanbul en büyük şehir",
+   "Istanbul is the biggest city."
+  ],
+  [
+   "Eve geliyorlar",
+   "They [come/are coming] home."
+  ],
+  [
+   "Babam 'Merhaba! Gel, arkadaşımız ol', diyor.",
+   "My father says 'Hello! Come and be our friend'."
+  ],
+  [
+   "Evimizde büyük pencereler var",
+   "There are big windows in our house"
+  ],
+  [
+   "Pencereden atlıyoruz",
+   "We jump from [the] window"
+  ],
+  [
+   "Ev almak mı istiyorsun?",
+   "Do you want to buy [a] house?"
+  ]
+ ],
+ "test": [
+  [
+   "Baban mutlu mu?",
+   "",
+   ">"
+  ],
+  [
+   "'Şehirimize gel' diyoruz",
+   "",
+   ">"
+  ],
+  [
+   "Arkadaşım doktor olmak istiyor.",
+   "",
+   ">"
+  ],
+  [
+   "Fakir evimi seviyorlar mı?",
+   "",
+   ">"
+  ],
+  [
+   "İstanbul'dan mı geliyorsun?",
+   "",
+   ">"
+  ],
+  [
+   "Geldiğimde 'merhaba' diyorlar.",
+   "",
+   ">"
+  ],
+  [
+   "Baban geldiğimizden mutlu mu?",
+   "",
+   ">"
+  ],
+  [
+   "Fakir olduğunu diyorlar.",
+   "",
+   ">"
+  ],
+  [
+   "Aldığın ev büyük mü?",
+   "",
+   ">"
+  ],
+  [
+   "En mutlu olduğum şehir, Van.",
+   "",
+   ">"
+  ],
+  [
+   "Fakir olduğumuz halde mutluyuz.",
+   "",
+   ">"
+  ]
+ ]
+}

@@ -1,0 +1,78 @@
+{
+ "source_language": "papiamento",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Mi ta atimabo",
+   "I love you.SG"
+  ],
+  [
+   "Bo yiu homber tabata mira Piter",
+   "Your.SG son saw Piter"
+  ],
+  [
+   "E ruman homber ta korda e muhé",
+   "The brother remembers her"
+  ],
+  [
+   "Mi ruman muhé ta laba e mucha muhé",
+   "My sister washes a girl"
+  ],
+  [
+   "Maria tabata salbabosnan",
+   "Maria saved you.PL"
+  ],
+  [
+   "Bosnan lo mustra nos buki",
+   "You.PL will show our book"
+  ]
+ ],
+ "test": [
+  [
+   "Bo ta labanos",
+   "",
+   ">"
+  ],
+  [
+   "Piter lo mira mi yiu muhé",
+   "",
+   ">"
+  ],
+  [
+   "Maria tabata korda e buki",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "You.SG love us",
+   "<"
+  ],
+  [
+   "",
+   "Peter loved his daughter",
+   "<"
+  ],
+  [
+   "",
+   "The boy saw me",
+   "<"
+  ],
+  [
+   "",
+   "He will wash the boy",
+   "<"
+  ],
+  [
+   "",
+   "Our son will see the book",
+   "<"
+  ],
+  [
+   "",
+   "We remember Maria",
+   "<"
+  ]
+ ]
+}

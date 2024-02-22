@@ -1,0 +1,197 @@
+{
+ "source_language": "swahili",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Atacheza",
+   "(He/She) will play"
+  ],
+  [
+   "Mlifahamu",
+   "You.PL understood"
+  ],
+  [
+   "Mnapika",
+   "You.PL cook"
+  ],
+  [
+   "Nilicheza",
+   "I played"
+  ],
+  [
+   "Ninapika",
+   "I cook"
+  ],
+  [
+   "Nitapika",
+   "I will cook"
+  ],
+  [
+   "Tulifahamu",
+   "We understood"
+  ],
+  [
+   "Unacheza",
+   "You play"
+  ],
+  [
+   "Utapika",
+   "You will cook"
+  ],
+  [
+   "Wanafahamu",
+   "They understand"
+  ],
+  [
+   "Watapika",
+   "They will cook"
+  ],
+  [
+   "Walicheza",
+   "They played"
+  ],
+  [
+   "Hakucheza",
+   "(He/She) did not play"
+  ],
+  [
+   "Hamkupika",
+   "You.PL did not cook"
+  ],
+  [
+   "Hatacheza",
+   "(He/She) will not play"
+  ],
+  [
+   "Hatapika",
+   "(He/She) will not cook"
+  ],
+  [
+   "Hatukufahamu",
+   "We did not understand"
+  ],
+  [
+   "Hatupiki",
+   "We do not cook"
+  ],
+  [
+   "Hawafahamu",
+   "They do not understand"
+  ],
+  [
+   "Huchezi",
+   "You do not play"
+  ],
+  [
+   "Sikucheza",
+   "I did not play"
+  ],
+  [
+   "Hamtakula",
+   "You.PL will not eat"
+  ],
+  [
+   "Hatupi",
+   "We do not give"
+  ],
+  [
+   "Hawakula",
+   "They did not eat"
+  ],
+  [
+   "Hawakupa",
+   "They did not give"
+  ],
+  [
+   "Huchi",
+   "You do not fear"
+  ],
+  [
+   "Mlikucha",
+   "You.PL feared"
+  ],
+  [
+   "Sili",
+   "I do not eat"
+  ],
+  [
+   "Unakucha",
+   "You fear"
+  ],
+  [
+   "Watakupa",
+   "They will give"
+  ],
+  [
+   "Ninatembelea",
+   "I visit"
+  ],
+  [
+   "Ninakufa",
+   "I die"
+  ]
+ ],
+ "test": [
+  [
+   "",
+   "You visit",
+   "<"
+  ],
+  [
+   "",
+   "I do not visit.",
+   "<"
+  ],
+  [
+   "",
+   "You.PL visited.",
+   "<"
+  ],
+  [
+   "",
+   "We did not visit",
+   "<"
+  ],
+  [
+   "",
+   "(He/She) will visit",
+   "<"
+  ],
+  [
+   "",
+   "They will not visit",
+   "<"
+  ],
+  [
+   "",
+   "You die.",
+   "<"
+  ],
+  [
+   "",
+   "I do not die.",
+   "<"
+  ],
+  [
+   "",
+   "You.PL died.",
+   "<"
+  ],
+  [
+   "",
+   "We did not die",
+   "<"
+  ],
+  [
+   "",
+   "(He/She) will die.",
+   "<"
+  ],
+  [
+   "",
+   "They will not die.",
+   "<"
+  ]
+ ]
+}

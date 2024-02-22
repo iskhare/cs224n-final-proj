@@ -1,0 +1,112 @@
+{
+ "source_language": "bulgarian",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Veshterǎt nahrani maymunata.",
+   "The wizard fed the monkey."
+  ],
+  [
+   "Kamilata vǎrvya.",
+   "The camel walked."
+  ],
+  [
+   "Momicheto pregǎrna kotkata.",
+   "The girl hugged the cat."
+  ],
+  [
+   "Veshttsata prokle kotkata.",
+   "The witch cursed the cat."
+  ],
+  [
+   "Kotkata prokle tvoya sin.",
+   "The cat cursed your son."
+  ],
+  [
+   "Ti nahrani sina.",
+   "You fed the son."
+  ],
+  [
+   "Kotkata te odraska.",
+   "The cat scratched you."
+  ],
+  [
+   "Ti skochi.",
+   "You jumped."
+  ],
+  [
+   "Tvoyat sin te gleda.",
+   "Your son watched you."
+  ],
+  [
+   "Veshterǎt pregǎrna edna kamila.",
+   "The wizard hugged a camel."
+  ],
+  [
+   "Ti se obleche.",
+   "You dressed yourself."
+  ],
+  [
+   "Sinǎt obleche tvoeto bebe.",
+   "The son dressed your baby."
+  ]
+ ],
+ "test": [
+  [
+   "Maymunata gleda tvoyata veshttsa.",
+   "",
+   ">"
+  ],
+  [
+   "Tvoyata kamila obleche edno momiche.",
+   "",
+   ">"
+  ],
+  [
+   "Veshterǎt se prokle.",
+   "",
+   ">"
+  ],
+  [
+   "Ti pregǎrna bebeto.",
+   "",
+   ">"
+  ],
+  [
+   "Ti vǎrvya.",
+   "",
+   ">"
+  ],
+  [
+   "Ti prokle edin veshter.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "The witch dressed you.",
+   "<"
+  ],
+  [
+   "",
+   "The baby watched the girl.",
+   "<"
+  ],
+  [
+   "",
+   "The monkey jumped.",
+   "<"
+  ],
+  [
+   "",
+   "You hugged a son.",
+   "<"
+  ],
+  [
+   "",
+   "Your son dressed a baby.",
+   "<"
+  ]
+ ]
+}

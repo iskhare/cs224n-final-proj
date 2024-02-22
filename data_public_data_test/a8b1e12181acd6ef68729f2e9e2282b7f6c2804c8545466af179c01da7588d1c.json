@@ -1,0 +1,121 @@
+{
+ "source_language": "māori",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Ka moe au ki tātahi.",
+   "I will sleep at the beach."
+  ],
+  [
+   "Kua kite rātou i Te Maioro Nui Whakaharahara o Haina.",
+   "They have seen the Great Wall of China."
+  ],
+  [
+   "Ka patu koe i te pōro.",
+   "You will hit the ball."
+  ],
+  [
+   "Kua haere au ki te hui.",
+   "I have gone to the meeting."
+  ],
+  [
+   "I patua te taramu e te tama.",
+   "The drum was hit by the boy."
+  ],
+  [
+   "Kāore au e haere ki te marae.",
+   "I will not go to the courtyard."
+  ],
+  [
+   "I korerota ngā kupu e te tama.",
+   "The words were spoken by the boy."
+  ],
+  [
+   "Kāore te whare i hangaia e Bob.",
+   "The house was not built by Bob."
+  ],
+  [
+   "I patu Bob i te taramu.",
+   "Bob hit the drum."
+  ],
+  [
+   "Kua mahia te mahi e au.",
+   "The work has been done by me."
+  ],
+  [
+   "I whāia au e te pūru.",
+   "I was chased by the bull."
+  ],
+  [
+   "Nā te kōtro te taramu i patu.",
+   "The girl hit the drum."
+  ],
+  [
+   "Mā te wahine ngā peret e horoi.",
+   "The woman will wash the plates."
+  ]
+ ],
+ "test": [
+  [
+   "Ka haere rātou ki tātahi.",
+   "",
+   ">"
+  ],
+  [
+   "Kua patu au i te pōro.",
+   "",
+   ">"
+  ],
+  [
+   "I hangaia te whare e Bob.",
+   "",
+   ">"
+  ],
+  [
+   "Nā te tama te kōtro i kōrero.",
+   "",
+   ">"
+  ],
+  [
+   "Mā te pūru ngā tama e whai.",
+   "",
+   ">"
+  ],
+  [
+   "Kāore au i haere ki te marae.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "They have slept at the meeting.",
+   "<"
+  ],
+  [
+   "",
+   "You will go to the Great Wall of China.",
+   "<"
+  ],
+  [
+   "",
+   "I will not sleep at the beach.",
+   "<"
+  ],
+  [
+   "",
+   "The bull has been washed by you.",
+   "<"
+  ],
+  [
+   "",
+   "The boy did the work.",
+   "<"
+  ],
+  [
+   "",
+   "The woman went to the house.",
+   "<"
+  ]
+ ]
+}
