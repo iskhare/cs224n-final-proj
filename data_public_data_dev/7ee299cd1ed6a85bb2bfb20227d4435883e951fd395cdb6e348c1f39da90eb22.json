@@ -1,0 +1,143 @@
+{
+ "source_language": "blackfoot",
+ "target_language": "english ",
+ "meta": "The ‘glottal stop’ is a sound found in English between the two syllables of ‘Uh oh!’. In Blackfoot the glottal stop is written using an apostrophe (’). NOTE that this sound has the same value as other consonant sounds like 'p' or 'k', so that its presence or absence in a word changes the word and its associated meaning.",
+ "train": [
+  [
+   "A’po’takiwa.",
+   "(He/She) worked."
+  ],
+  [
+   "Okska’sio’pa.",
+   "We.PL2 ran"
+  ],
+  [
+   "Nita’po’taki.",
+   "I worked."
+  ],
+  [
+   "Kitokska’si.",
+   "You.SG ran."
+  ],
+  [
+   "Oki’kaayi.",
+   "They camped."
+  ],
+  [
+   "Kitokska’sihpoaawa",
+   "You.PL ran"
+  ],
+  [
+   "Nitoki’kaahpinnaan.",
+   "We.PL2- camped."
+  ],
+  [
+   "A’po’takiwa.",
+   "He worked."
+  ],
+  [
+   "Inihkiwa",
+   "(He/She) sang."
+  ],
+  [
+   "I’poyio’pa.",
+   "We.PL2 spoke"
+  ],
+  [
+   "Kitaahkayi.",
+   "You.SG went home."
+  ],
+  [
+   "Nitai’poyi.",
+   "I am speaking."
+  ],
+  [
+   "Kitainihkihpoaawa.",
+   "You.PL are singing."
+  ],
+  [
+   "Aakaahkayiyi.",
+   "They will go home."
+  ],
+  [
+   "Nitaakinihkihpinnaan.",
+   "We.PL2- will sing."
+  ],
+  [
+   "Kitohpai’piiyi.",
+   "You.SG jumped."
+  ],
+  [
+   "Kitsipoipoyihpoaawa.",
+   "You.PL stood up."
+  ],
+  [
+   "Ipasskaawa.",
+   "He danced."
+  ],
+  [
+   "Ipoipoyiyi.",
+   "They stood up."
+  ],
+  [
+   "Nitsipasskaa.",
+   "I danced."
+  ],
+  [
+   "Nitanistapaoohpinnaan",
+   "We.PL2- stepped aside."
+  ]
+ ],
+ "test": [
+  [
+   "Kita’po’taki.",
+   "",
+   ">"
+  ],
+  [
+   "Oki’kaao’pa.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "(he/she) ran.",
+   "<"
+  ],
+  [
+   "",
+   "We.2PL- worked.",
+   "<"
+  ],
+  [
+   "Kitai’poyihpoaawa.",
+   "",
+   ">"
+  ],
+  [
+   "Aakinihkiwa",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "I went home.",
+   "<"
+  ],
+  [
+   "",
+   "You.SG are singing.",
+   "<"
+  ],
+  [
+   "",
+   "I spoke",
+   "<"
+  ],
+  [
+   "",
+   "You.PL danced.",
+   "<"
+  ]
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "source_language": "wambaya",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Ngarlu nya.",
+   "You.SG danced."
+  ],
+  [
+   "Gulugba ngu.",
+   "I will sleep."
+  ],
+  [
+   "Bardbi ga bungmanya.",
+   "The old woman ran [away]."
+  ],
+  [
+   "Ngunybulugi barrawunguji.",
+   "The doctor has a house."
+  ],
+  [
+   "Ngajbi nginya.",
+   "I saw you.SG."
+  ],
+  [
+   "Dagumajba nguyu ngunybulugi.",
+   "She will strike the doctor."
+  ],
+  [
+   "Alanga gu ngarlujba janjingunya.",
+   "The girl will dance with the dog."
+  ],
+  [
+   "Ngajba gununyu.",
+   "He will see you.SG."
+  ],
+  [
+   "Ngirra nga gijilulu.",
+   "I stole the money."
+  ],
+  [
+   "Yagujba nyu barrawuwaji.",
+   "You.SG will leave him without a house."
+  ],
+  [
+   "Daguma ngiyinga bungmanyani.",
+   "The old woman struck me."
+  ],
+  [
+   "Bardbi ga darranggunguji.",
+   "He ran [away] with the stick."
+  ],
+  [
+   "Alayulu ngiya juwa.",
+   "She found the man."
+  ],
+  [
+   "Juwani gina ngajbi gijilulungunya.",
+   "The man saw her with the money."
+  ],
+  [
+   "Yagu gininga.",
+   "He left me."
+  ],
+  [
+   "Bungmaji gina ngajbi balamurruwaji.",
+   "He saw the old man without a spear."
+  ],
+  [
+   "Dirragba gu bungmaji.",
+   "The old man will jump."
+  ]
+ ],
+ "test": [
+  [
+   "Alayulujba nguyunyu bungmanyani.",
+   "",
+   ">"
+  ],
+  [
+   "Yagu gininya.",
+   "",
+   ">"
+  ],
+  [
+   "Janji darrangguwaji.",
+   "",
+   ">"
+  ],
+  [
+   "Ngirra nya alanga.",
+   "",
+   ">"
+  ],
+  [
+   "Daguma nyinga.",
+   "",
+   ">"
+  ],
+  [
+   "Dirragbi ga balamurrungunya.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "You.SG will leave me",
+   "<"
+  ],
+  [
+   "",
+   "The doctor slept",
+   "<"
+  ],
+  [
+   "",
+   "The man will run [away] with the money",
+   "<"
+  ],
+  [
+   "",
+   "He will steal the dog",
+   "<"
+  ],
+  [
+   "",
+   "The girl saw you.SG",
+   "<"
+  ]
+ ]
+}

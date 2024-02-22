@@ -1,0 +1,120 @@
+{
+ "source_language": "dyirbal",
+ "target_language": "english",
+ "meta": "ŋ = ng in hang. ɲ ≈ ni in onion; ȷ is a stop (as d) articulated in the same place in the mouth as ɲ.",
+ "train": [
+  [
+   "bayi yaɽa ŋunȷaymuŋa baŋgu gurugugu biŋgunman.",
+   "Booze is making the man that is always being blamed tired."
+  ],
+  [
+   "balan yabu bimabanȷalŋaymuŋa baŋgul yaɽaŋgu guliŋgu ŋunȷaɲu.",
+   "The strong man is blaming the mother that is always following death adders."
+  ],
+  [
+   "balan waymin bambun baŋgu ȷugaŋgu ȷamiman.",
+   "Sugar is making the healthy mother-in-law fat."
+  ],
+  [
+   "bala yila wura baŋgul bargandu biŋgundu guniɲu.",
+   "The tired wallaby is searching for the little feather."
+  ],
+  [
+   "balan malayigara baŋgu garandu biŋgunman.",
+   "The smoke is making the scorpion tired."
+  ],
+  [
+   "bala gurugu baŋgul ŋumaŋgu munduŋgu dimbaɲu.",
+   "The offended father is carrying the booze."
+  ],
+  [
+   "bayi midin baŋgun bimaŋgu malayigaraguninaymuŋagu banȷan.",
+   "The death adder that is always searching for scorpions is following the possum."
+  ],
+  [
+   "bayi gubimbulu biŋgun baŋgu gurugugu ȷagunman.",
+   "Booze is making the tired doctor fall asleep."
+  ],
+  [
+   "bala garan baŋgul biɲȷiriɲȷu banȷan.",
+   "The lizard is following the smoke."
+  ],
+  [
+   "balan duŋan baŋgul yiriɲȷilagu guniɲu.",
+   "The dragonfly is searching for the stinging tree."
+  ],
+  [
+   "bala ȷuga baŋgun yabuŋgu ŋaȷilmuŋagu dimbaɲu.",
+   "The mother that is always being ignored is carrying the sugar."
+  ],
+  [
+   "bala diban ȷagiɲ baŋgul gubimbulugu ȷamiŋgu bilmban.",
+   "The fat doctor is pushing the big stone."
+  ],
+  [
+   "bala garan baŋgun waymindu dibanbilmbalŋaymuŋagu buóan.",
+   "The mother-in-law that is always pushing stones is looking at the smoke."
+  ],
+  [
+   "balan baŋgay waɽu baŋgun bundiɲȷu ȷagiɲȷu guniɲu.",
+   "The big grasshopper is searching for the bent spear."
+  ],
+  [
+   "bayi biɲȷiriɲ biŋgun baŋgul ɲalŋgaŋgu mugurugu buɽan.",
+   "The quiet boy is looking at the tired lizard."
+  ],
+  [
+   "bayi ŋuma guli baŋgul yaɽaŋgu banȷalmuŋagu munduman.",
+   "The man that is always being followed is offending the strong father."
+  ],
+  [
+   "bayimbam",
+   "(grub/caterpillar)"
+  ],
+  [
+   "mugunanȷa",
+   "(aunt/mother’s elder sister)"
+  ],
+  [
+   "muŋga",
+   "loud noise"
+  ]
+ ],
+ "test": [
+  [
+   "balan ɲalŋga baŋgul ŋumaŋgu guniymuŋagu bambunman.",
+   "",
+   ">"
+  ],
+  [
+   "bala diban bilmbalmuŋa baŋgun biɲȷiriɲȷu guniɲu.",
+   "",
+   ">"
+  ],
+  [
+   "bayi bargan baŋgul yaɽaŋgu gubimbuluŋunȷanaymuŋagu banȷan.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "The little wallaby is looking at the dragonfly.",
+   "<"
+  ],
+  [
+   "",
+   "The aunt that is always being followed is bending the feather.",
+   "<"
+  ],
+  [
+   "",
+   "The sleeping possum is ignoring the loud noise.",
+   "<"
+  ],
+  [
+   "",
+   "The caterpillar is searching for the man that is always carrying stones.",
+   "<"
+  ]
+ ]
+}

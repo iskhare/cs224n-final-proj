@@ -1,0 +1,117 @@
+{
+ "source_language": "basque",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Nire anaiarekin bizi da.",
+   "He lives with my brother."
+  ],
+  [
+   "Neskaren kotxea nahi dut.",
+   "I want the girl’s car."
+  ],
+  [
+   "Jantziko naiz eta joango gara.",
+   "I’ll get dressed and we’ll go."
+  ],
+  [
+   "Umea kalean erori da.",
+   "The child has fallen in the street."
+  ],
+  [
+   "Nire aitak erantzuna daki.",
+   "My father knows the answer."
+  ],
+  [
+   "Ardoa bukatu duzu?",
+   "Have you fnished the wine?"
+  ],
+  [
+   "Nire aita Californian bizi da.",
+   "My father lives in California."
+  ],
+  [
+   "Etxera joango gara.",
+   "We’ll go home."
+  ],
+  [
+   "Nire semeak kotxe berria erosi du.",
+   "My son has bought a new car."
+  ],
+  [
+   "Ez dakit.",
+   "I don’t know."
+  ],
+  [
+   "Emakumeak liburua irakurri du.",
+   "The woman has read the book."
+  ],
+  [
+   "Atlantkoa ez da basoa.",
+   "The Atlantc is not a forest."
+  ],
+  [
+   "Ardoarekin pasta jaten dut.",
+   "I eat pasta with wine."
+  ],
+  [
+   "zuri",
+   "white"
+  ],
+  [
+   "Ingalatera",
+   "England"
+  ],
+  [
+   "familia",
+   "family"
+  ],
+  [
+   "Europan",
+   "europe"
+  ]
+ ],
+ "test": [
+  [
+   "Neskak problema daki.",
+   "",
+   ">"
+  ],
+  [
+   "Emakumearen etxea Europan da.",
+   "",
+   ">"
+  ],
+  [
+   "Nire aitaren liburu berria irrakuri dut.",
+   "",
+   ">"
+  ],
+  [
+   "Aitarekin hotelera joango naiz.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "I want white wine.",
+   "<"
+  ],
+  [
+   "",
+   "The white wine is new.",
+   "<"
+  ],
+  [
+   "",
+   "My father’s son lives in England.",
+   "<"
+  ],
+  [
+   "",
+   "My family has bought a new house.",
+   "<"
+  ]
+ ]
+}

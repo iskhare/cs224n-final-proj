@@ -1,0 +1,88 @@
+{
+ "source_language": "euskara",
+ "target_language": "english",
+ "meta": "",
+ "train": [
+  [
+   "Emakumeak gizona ikusi du.",
+   "The woman has seen the man."
+  ],
+  [
+   "Zuk umea ikusi duzu kalean.",
+   "You have seen the child in the street."
+  ],
+  [
+   "Non ikusi duzu umea?",
+   "Where have you seen the child?"
+  ],
+  [
+   "Nork ikusi du umea kalean?",
+   "Who has seen the child in the street?’"
+  ],
+  [
+   "Umeak ez du gizona ikusi.",
+   "The child has not seen the man."
+  ],
+  [
+   "Emakumeak liburua irakurri du.",
+   "The woman has read the book."
+  ],
+  [
+   "Umea etorri da.",
+   "The child has (come/arrived)."
+  ],
+  [
+   "Umea kalean erori da.",
+   "The child has fallen in the street."
+  ],
+  [
+   "Igela agertu da.",
+   "The frog has appeared."
+  ],
+  [
+   "Gizonak umeari liburua eman dio.",
+   "The man has given the book to the child."
+  ],
+  [
+   "Irakasleak umeari liburua irakurrarazi dio.",
+   "The teacher has made the child read the book."
+  ]
+ ],
+ "test": [
+  [
+   "",
+   "The woman has come.",
+   "<"
+  ],
+  [
+   "",
+   "The man has seen the woman.",
+   "<"
+  ],
+  [
+   "",
+   "The book has not arrived.",
+   "<"
+  ],
+  [
+   "Nork ikusi du gizona?",
+   "",
+   ">"
+  ],
+  [
+   "Nor agertu da kalean?",
+   "",
+   ">"
+  ],
+  [
+   "Emakumeak umeari etorrarazi dio.",
+   "",
+   ">"
+  ],
+  [
+   "",
+   "The child has given the frog to the woman.",
+   "<"
+  ]
+ ]
+}
