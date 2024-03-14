@@ -1,0 +1,2 @@
+command: python3 $program/evaluate.py $input $output
+description: Scoring program for the PuzzLing Machines shared task
