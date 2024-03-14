@@ -19,7 +19,6 @@ def random_words_translation(data):
     english_vocabulary = set()
     for _, english_sentence in data['train']:
         english_vocabulary.update(word_tokenize(english_sentence.lower()))
-        print
 
     random_translations = []
     for source_sentence, target_sentence, _ in data['test']:
@@ -40,22 +39,23 @@ def calculate_bleu_for_file(file_path):
         bleu_scores.append(score)
     return bleu_scores
 
-# Replace 'your_folder_path' with the actual path to your folder containing JSON files
-folder_path = 'trial_data_with_answers'
+# # Replace 'your_folder_path' with the actual path to your folder containing JSON files
+# folder_path = 'trial_data_with_answers'
 
-# List all JSON files in the folder
-json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+# # List all JSON files in the folder
+# json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
 
-# Calculate BLEU scores for all files and accumulate them
-all_bleu_scores = []
-for json_file in json_files:
-    file_path = os.path.join(folder_path, json_file)
-    file_bleu_scores = calculate_bleu_for_file(file_path)
-    all_bleu_scores.extend(file_bleu_scores)
+# # Calculate BLEU scores for all files and accumulate them
+# all_bleu_scores = []
+# for json_file in json_files:
+#     file_path = os.path.join(folder_path, json_file)
+#     file_bleu_scores = calculate_bleu_for_file(file_path)
+#     all_bleu_scores.extend(file_bleu_scores)
 
-# Calculate and print the average BLEU score over all files
-if all_bleu_scores:
-    average_bleu_score = sum(all_bleu_scores) / len(all_bleu_scores)
-    print(f"Average BLEU score over all files: {average_bleu_score}")
-else:
-    print("No BLEU scores to average.")
+# # Calculate and print the average BLEU score over all files
+# if all_bleu_scores:
+#     average_bleu_score = sum(all_bleu_scores) / len(all_bleu_scores)
+#     print(f"Average BLEU score over all files: {average_bleu_score}")
+# else:
+#     print("No BLEU scores to average.")
+
